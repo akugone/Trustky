@@ -92,11 +92,18 @@ function Home() {
               </nav>
             </div>
 
-            <div className="mr-[60px] flex items-center justify-start lg:mr-0">
+            <div className="mr-[60px] flex items-center justify-start lg:mr-0 ">
+              <a
+                href="https://www.loom.com/share/8da1af70e1214054bfc6199c0064b9b8?sid=cb250572-2214-4175-bcbc-30403db76e81"
+                target="_blank"
+                className="rounded-md bg-redpraha py-[6px] px-[12px] xl:py-[10px] xl:px-[30px] text-base font-medium text-white hover:bg-opacity-90 mr-4"
+              >
+                TRUSTKY Demo
+              </a>
               <a
                 href="https://github.com/trustky-protocol/trustky"
                 target="_blank"
-                className="rounded-md bg-redpraha py-[6px] px-[12px] xl:py-[10px] xl:px-[30px] text-base font-medium text-white hover:bg-opacity-90"
+                className="rounded-md bg-endnight py-[6px] px-[12px] xl:py-[10px] xl:px-[30px] text-base font-medium text-white hover:bg-opacity-90"
               >
                 TRUSTKY Github
               </a>
