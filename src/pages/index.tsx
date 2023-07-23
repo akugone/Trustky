@@ -1356,7 +1356,7 @@ function Home() {
                   </a>
 
                   <a
-                    href="https://twitter.com/xmtp_"
+                    href="https://twitter.com/"
                     className="text-white opacity-70 hover:opacity-100"
                     target="_blank"
                     aria-label="social icon"
