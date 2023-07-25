@@ -1,3 +1,4 @@
+* ETHcc Global - Paris Hackathon 2023
 **Trustky - Private Resume Builder**
 
 ![Trustky Logo](https://i.imgur.com/oO08xKS.jpg)
